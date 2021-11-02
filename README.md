@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @QuintonLin
+- 👋 Hi, I’m Quinton Lin!
 - 👀 I’m interested in software designing! 
 - 🌱 I’m currently learning python, html, css, and javascript!
 - 💞️ I’m looking to collaborate on anything really! I'm willing to learn!
