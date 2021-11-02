@@ -4,4 +4,3 @@
 - 💞️ I’m looking to collaborate on anything really! I'm willing to learn!
 - 📫 How to reach me: email: quintonlin2@gmail.com
 - I am rather new at coding but I am willing to try my hardest and put my best foot forward!!!! :DDDDD
-- 
