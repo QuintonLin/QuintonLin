@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @QuintonLin
+- 👀 I’m interested in software designing! 
+- 🌱 I’m currently learning python, html, css, and javascript!
+- 💞️ I’m looking to collaborate on anything really! I'm willing to learn!
+- 📫 How to reach me: email: quintonlin2@gmail.com
